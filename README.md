@@ -16,3 +16,5 @@
 4. 푸시하기
 
 [영남이공대학교](https://yclass.ync.ac.kr/)
+
+![프로필 이미지](./200px-Team_Korea_Russia_WorldCup_02_(cropped).png)
